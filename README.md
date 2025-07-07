@@ -9,12 +9,15 @@
 - 📺 I like helping others and solving new challenges.
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aljarrah0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aljarrah/)
 [![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/mohammed_aljarrah/)](https://t.me/mohammed_aljarrah/)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,postman,phpstorm,git,linux,&theme=dark)](# "html,css,js,php,laravel,mysql,postman,phpstorm,git,linux")
 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=aljarrah0&show_icons=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljarrah0&hide_border=true&layout=compact"/>
 
 <img src="https://imgur.com/rilHVxA.png"/>
